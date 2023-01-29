@@ -1,0 +1,6 @@
+var message = 'Hey';
+var name = 'Gays';
+alert(message  + ' there ' + name);
+
+var tweet = prompt("insert ur randirona here");
+alert("You wrote " + tweet.length +" characters, you got " + (140-tweet.length)  +  " left " )
